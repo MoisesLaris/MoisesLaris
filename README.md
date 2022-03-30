@@ -29,6 +29,7 @@ I am a _programmer_, _full-stack developer_.
   <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="D3 logo" width="5%" title='MongoDB'/>
   <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql logo" width="5%" title='MYSQL'/>
   <img src ="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite logo" width="4%" title='sqlite'/>
+  <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgres logo" width="4%" title='postgres'/>
   <img src ="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql logo" width="4%" title='GraphQL'/>
 </div>
   
