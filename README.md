@@ -1,4 +1,4 @@
-# Hi 👋 !
+t# Hi 👋 !
 
 ## I'm Moises Laris
 
@@ -26,8 +26,7 @@ I am a _programmer_, _full-stack developer_.
 ### Backend Technologies
 
 <div>
-  <img src ="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.openxcell.com%2Fnodejs-development%2F&psig=AOvVaw1Bck2mvomX5EEwQ5XD5CaF&ust=1665289510862000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNjstoblz_oCFQAAAAAdAAAAABAD" alt="Node logo" width="5%" title='Nodejs'/>
-  <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express logo" width="5%" title='Express'/>
+  <img src ="https://www.openxcell.com/wp-content/uploads/2021/11/nodejs-inner.png" alt="Node logo" width="5%" title='Nodejs'/>
   <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="D3 logo" width="5%" title='MongoDB'/>
   <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql logo" width="5%" title='MYSQL'/>
   <img src ="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite logo" width="4%" title='sqlite'/>
