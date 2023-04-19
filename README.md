@@ -43,7 +43,6 @@ I am a _programmer_, _full-stack developer_.
 ### Tools
 
 <div>
-  <img src ="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="Figma logo" width="3%" title='Figma'/>
   <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/240px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS Code logo" width="4%" title='Visual Studio Code'/>
   <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/ESLint_logo.svg/324px-ESLint_logo.svg.png" alt="ESLint logo" width="5%" title='ESLint'/>
   <img src ="https://cdn.worldvectorlogo.com/logos/nodemon.svg" alt="Nodemon logo" width="4%" title='Nodemon'/>
