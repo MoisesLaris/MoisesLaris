@@ -12,7 +12,7 @@ I am a _programmer_, _full-stack developer_.
   <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5 logo" width="4%" title='HTML5'/>
   <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3 logo" width="4%" title='CSS3'/>
   <img src ="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="Bootstrap logo" width="3.5%" title='Bootstrap'/>
-  <img src ="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="Bulma logo" width="3%" title='Bulma'/>
+  <img src ="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="Bulma logo" width="2.5%" title='Bulma'/>
   <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass logo" width="4%" title='Sass'/>
   <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript logo" width="4%" title='JavaScript'/>
   <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Typescript logo" width="4%" title='Typescript'/>
