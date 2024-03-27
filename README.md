@@ -13,6 +13,7 @@ I am a _programmer_, _full-stack developer_.
   <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Typescript logo" width="4%" title='Typescript'/>
   <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react logo" width="4%" title='React'/>
   <img src ="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="redux logo" width="4%" title='Redux'/>
+  <img src ="https://raw.githubusercontent.com/github/explore/990a9efe0b9529eca38ca9e081bc7a97b18dff45/topics/zustand/zustand.png" alt="zustand logo" width="4%" title='Zustand'/>
   <img src ="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular logo" width="4.3%" title='Angular'/>  
 <div> 
 
