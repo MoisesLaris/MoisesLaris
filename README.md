@@ -4,7 +4,7 @@
 
 I am a _programmer_, _full-stack developer_.
 
-## Technologies which I use:
+## Technologies which I use
 
 ### Frontend Technologies
 
