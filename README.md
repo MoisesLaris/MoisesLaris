@@ -20,7 +20,7 @@ I am a _programmer_, _full-stack developer_.
 ### Backend Technologies
 
 <div>
-  <img src ="https://www.openxcell.com/wp-content/uploads/2021/11/nodejs-inner.png" alt="Node logo" width="5%" title='Nodejs'/>
+  <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg" alt="Node logo" width="5%" title='Nodejs'/>
   <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="Go logo" width="6%" title='Go'/>
   <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="D3 logo" width="5%" title='MongoDB'/>
   <img src ="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mysql/mysql-plain-wordmark.svg" alt="mysql logo" width="5%" title='MYSQL'/>
