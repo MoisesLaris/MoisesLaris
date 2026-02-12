@@ -27,11 +27,11 @@ I am a _programmer_, _full-stack developer_.
   <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgres logo" width="4%" title='postgres'/>
   <img src ="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql logo" width="4%" title='GraphQL'/>
 </div>
-  
-### Mobile Technologies
+
+### Cloud Technologies
 
 <div>
-  <img src ="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter logo" width="4%" title="flutter"/>
+  <img src ="https://images.icon-icons.com/2407/PNG/512/aws_icon_146237.png" alt="aws logo" width="4%" title="aws"/>
 </div>
 
 ### Tools
