@@ -32,6 +32,7 @@ I am a _programmer_, _full-stack developer_.
 
 <div>
   <img src ="https://images.icon-icons.com/2407/PNG/512/aws_icon_146237.png" alt="aws logo" width="4%" title="aws"/>
+  <img src ="https://icon.icepanel.io/Technology/svg/HashiCorp-Terraform.svg" alt="terraform logo" width="4%" title="terraform"/>
 </div>
 
 ### Tools
