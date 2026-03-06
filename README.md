@@ -34,14 +34,6 @@ I am a _programmer_, _full-stack developer_.
   <img src ="https://images.icon-icons.com/2407/PNG/512/aws_icon_146237.png" alt="aws logo" width="4%" title="aws"/>
   <img src ="https://icon.icepanel.io/Technology/svg/HashiCorp-Terraform.svg" alt="terraform logo" width="4%" title="terraform"/>
 </div>
-
-### Tools
-
-<div>
-  <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/ESLint_logo.svg/324px-ESLint_logo.svg.png" alt="ESLint logo" width="5%" title='ESLint'/>
-  <img src ="https://cdn.worldvectorlogo.com/logos/nodemon.svg" alt="Nodemon logo" width="4%" title='Nodemon'/>
-  <img src ="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git logo" width="4.3%" title='Git'/>
-</div>
   
 ---
 <small> _I am a lifelong learner and I love programming._ </small>
