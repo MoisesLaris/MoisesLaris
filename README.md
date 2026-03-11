@@ -22,6 +22,7 @@ I am a _programmer_, _full-stack developer_.
 <div>
   <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg" alt="Node logo" width="5%" title='Nodejs'/>
   <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="Go logo" width="6%" title='Go'/>
+  <img src ="https://img.icons8.com/?size=100&id=MWiBjkuHeMVq&format=png&color=000000" alt="Nextjs logo" width="5%" title='Nextjs'/>
   <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="D3 logo" width="5%" title='MongoDB'/>
   <img src ="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mysql/mysql-plain-wordmark.svg" alt="mysql logo" width="5%" title='MYSQL'/>
   <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgres logo" width="4%" title='postgres'/>
